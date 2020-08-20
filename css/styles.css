@@ -66,3 +66,14 @@ body {
 .proffesion{
     color: var(--title-text-color);
 }
+
+/* Портфолио */
+.filtres {
+    background-color: #F5F4FA;
+    color: var(--primary-text-color);
+}
+
+.filtres .button :hover, :focus {
+    background-color: var(--accent-color);
+    color: #212121;
+}
